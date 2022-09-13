@@ -100,6 +100,9 @@ yarn cypress:open
 
 
 
+
+
+
 > 🚩 **Note**
 >
 > If you have changed the default ports, then you need to update Cypress configuration file (`cypress.json`) locally.
